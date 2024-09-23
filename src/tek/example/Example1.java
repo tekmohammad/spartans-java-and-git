@@ -1,5 +1,10 @@
 package tek.example;
 
 public class Example1 {
-  int age = 20
+
+
+  public static void main(String[] args) {
+    int age = 20;
+    System.out.println(age);
+  }
 }
