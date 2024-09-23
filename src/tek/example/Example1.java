@@ -12,5 +12,10 @@ public class Example1 {
 
     String name1 = "John";
     System.out.println(name1);
+
+
+    String city = "Tysons";
+
+    System.out.println(city);
   }
 }
