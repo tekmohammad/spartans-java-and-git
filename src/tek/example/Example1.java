@@ -14,7 +14,7 @@ public class Example1 {
     System.out.println(name1);
 
 
-    String city = "San Diego";
+    String city = "Tysons";
 
     System.out.println(city);
   }
